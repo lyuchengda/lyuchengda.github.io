@@ -22,7 +22,7 @@ local = true
 src = "img/logo.jpg"
 
 [article]
-math = false
+math = true
 readingTime = false
 
 [article.license]
