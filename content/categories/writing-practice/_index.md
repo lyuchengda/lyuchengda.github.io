@@ -1,6 +1,6 @@
 ---
 title: Writing Practice
-description: writing fictions
+description: about fictions
 image:
 
 # Badge style
