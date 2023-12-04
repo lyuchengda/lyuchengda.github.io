@@ -1,7 +1,7 @@
 ---
 title: Learning Notes
 description: Notes of textbooks
-image: img/learning-notes.jpg
+image: /learning-notes.jpg
 
 # Badge style
 style:
