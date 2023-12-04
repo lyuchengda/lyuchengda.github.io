@@ -6,6 +6,7 @@ image:
 categories:
  - Writing Practice
 tags:
+ - Fiction
  - Love
 ---
 
