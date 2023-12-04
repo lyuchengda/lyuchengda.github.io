@@ -1,7 +1,7 @@
 ---
 title: Reaing Notes
 description: Reading notes of books or papers
-image: img/reading-notes.jpg
+image: /reading-notes.jpg
 
 # Badge style
 style:
