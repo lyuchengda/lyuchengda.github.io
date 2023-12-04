@@ -1,7 +1,7 @@
 ---
 title: Writing Practice
 description: About fictions
-image: img/writing-practice.jpg
+image: /writing-practice.jpg
 
 # Badge style
 style:
